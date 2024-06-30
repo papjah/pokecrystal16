@@ -1,5 +1,8 @@
 # 16-bit index expansion for Crystal
 
+This repository is a modernized and rebased version of [AX6](https://github.com/aaaaaa123456789)'s work found at https://github.com/aaaaaa123456789/pokecrystal16.
+It includes additional features such as the new `expand-item-ID` branch and the `newbox`/`item-newbox` branches.
+
 This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. The main goal of this
 project is to create a reusable system that ROM hacks can use to bring 16-bit indexes into their games.  
 It is *not* within scope to create a new game, or to add additional features beyond 16-bit indexes.
@@ -16,6 +19,9 @@ more suitable for them, with the remainder of the commit tree rebased on top of 
 fork this repository to build a new game on top** (unless you intend to contribute to it), as the publicly-visible
 history will be repeatedly rewritten, making merges impossible. If you do want to contribute to the repository, let
 me know in advance so I can notify you of history rewrites.
+
+For update notifications, discussions, bug reports, and feedback, join our Discord server: [Fellowship of the Roms (Public)](https://discord.gg/dvpf6wcqMn). 
+Once there, navigate to the `#reaction-roles` channel and react to pokecrystal16 to gain access to the `#pokecrystal16` channels.
 
 For further documentation, check out the [wiki].
 
@@ -72,6 +78,6 @@ bank! The index work is done, and I'll try to remove any hurdles that would rend
 want to push the limits of the hardware and add 20,000 new Pokémon, you'll find yourself against a technical challenge
 that will go beyond indexes.
 
-[compare]: https://github.com/aaaaaa123456789/pokecrystal16/compare
+[compare]: https://github.com/vulcandth/pokecrystal16/compare
 [pokecrystal]: https://github.com/pret/pokecrystal/
-[wiki]: https://github.com/aaaaaa123456789/pokecrystal16/wiki
+[wiki]: https://github.com/vulcandth/pokecrystal16/wiki

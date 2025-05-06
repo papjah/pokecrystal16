@@ -273,6 +273,7 @@ MACRO move_struct
 \1Accuracy::     db
 \1PP::           db
 \1EffectChance:: db
+\1Category::	 db
 ENDM
 
 MACRO slot_reel

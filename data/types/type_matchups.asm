@@ -48,7 +48,7 @@ TypeMatchups:
 	db FIGHTING,     BUG,          NOT_VERY_EFFECTIVE
 	db FIGHTING,     ROCK,         SUPER_EFFECTIVE
 	db FIGHTING,     DARK,         SUPER_EFFECTIVE
-	db FIGHTING,     STEEL,        
+	db FIGHTING,     STEEL,        SUPER_EFFECTIVE
 	db FIGHTING,     FAIRY,        NOT_VERY_EFFECTIVE
 	db POISON,       GRASS,        SUPER_EFFECTIVE
 	db POISON,       POISON,       NOT_VERY_EFFECTIVE

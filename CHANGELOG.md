@@ -4,6 +4,7 @@
 
 Added
 - Fairy type
+- Physical/Special split
 
 Removed
 - 25% chance of failure when the AI uses a status move
